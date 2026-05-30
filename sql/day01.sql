@@ -14,7 +14,10 @@ USE sql_mastery;
 -- ─────────────────────────────────────────
 
 -- YOUR QUERY:
+Select name, city, tier from customers;
 
+Select name, city, tier from customers
+where tier='Gold';
 
 -- ─────────────────────────────────────────
 -- SQL Q2
