@@ -25,11 +25,18 @@ where tier='Gold';
 -- ─────────────────────────────────────────
 
 -- YOUR QUERY:
-
+-- Pro models will be sotly and will be mostly from electronics
+select * from products
+order by price desc
+limit 5;
 
 -- ─────────────────────────────────────────
 -- REFLECT
 -- What was hardest about today's SQL?
+-- nothing i knew all these 
 -- What did you learn that you did not know?
+
 -- ─────────────────────────────────────────
 -- YOUR ANSWER:
+-- nothing i knew all these 
+-- nothing it wass all ok 
