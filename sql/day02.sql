@@ -14,7 +14,11 @@ USE sql_mastery;
 -- ─────────────────────────────────────────
 
 -- YOUR QUERY:
+select * from orders
+where status="completed" and total >5000;
 
+select * from orders
+where status="pending" or status="cancelled"  ;
 
 -- ─────────────────────────────────────────
 -- SQL Q2
@@ -22,11 +26,19 @@ USE sql_mastery;
 -- ─────────────────────────────────────────
 
 -- YOUR QUERY:
+select * from customers
+where upper(city)="MUMBAI" AND upper(tier)='GOLD';
+
+select count(*) from (select * from customers
+where upper(city)="MUMBAI" AND upper(tier)='GOLD') ;
+
 
 
 -- ─────────────────────────────────────────
 -- REFLECT
--- What was hardest about today's SQL?
+-- What was hardest about today's SQL? 
 -- What did you learn that you did not know?
 -- ─────────────────────────────────────────
--- YOUR ANSWER:
+-- YOUR ANSWER
+-- all easy
+-- i knew all these
