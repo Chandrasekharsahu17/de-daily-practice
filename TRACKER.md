@@ -10,7 +10,7 @@
 
 | Day | Date | Day | SQL Topic | SQL Q1 | SQL Q2 | Python Topic | Py Q1 | Py Q2 | Pushed |
 |-----|------|-----|-----------|--------|--------|--------------|-------|-------|--------|
-| 01 | Jun 01 | Mon | SELECT FROM LIMIT | ☐ | ☐ | Lists and Loops | ☐ | ☐ | ☐ |
+| 01 | Jun 01 | Mon | SELECT FROM LIMIT | ✅ | ✅ | Lists and Loops | ✅ |✅ | ☐ |
 | 02 | Jun 02 | Tue | WHERE AND OR | ☐ | ☐ | Dictionaries | ☐ | ☐ | ☐ |
 | 03 | Jun 03 | Wed | BETWEEN IN LIKE | ☐ | ☐ | List Comprehensions | ☐ | ☐ | ☐ |
 | 04 | Jun 04 | Thu | ORDER BY DISTINCT | ☐ | ☐ | Lambda Map Filter | ☐ | ☐ | ☐ |
