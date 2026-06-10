@@ -1,0 +1,7 @@
+id,city,amount,status
+1,Mumbai,5000,completed
+2,Delhi,3000,pending
+3,Mumbai,8000,completed
+4,Bangalore,2000,cancelled
+5,Delhi,12000,completed
+6,Pune,4500,pending

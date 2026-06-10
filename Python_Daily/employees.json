@@ -1,0 +1,1 @@
+[{"id": 1, "name": "Raj", "address": {"city": "Mumbai", "pin": "400001"}}, {"id": 2, "name": "Priya", "address": {"city": "Delhi", "pin": "110001"}}, {"id": 3, "name": "Amit", "address": {"city": "Bangalore", "pin": "560001"}}]
